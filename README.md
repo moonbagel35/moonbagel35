@@ -2,7 +2,7 @@
 
 I am Jake a.k.a Okinoth. I am a musician turned sound designer turned GameDev turned Systems Engineer.
 
-I am currently making games and building systems and apps for Debian base infra.
+I am currently making games and building systems and apps for Debian based infra.
 
 
 <!--
