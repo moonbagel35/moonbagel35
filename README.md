@@ -1,4 +1,9 @@
-## ima get to this later👋
+## Hello👋
+
+I am Jake a.k.a Okinoth. I am a musician turned sound designer turned GameDev turned Systems Engineer.
+
+I am currently making games and building systems and apps for Debian base infra.
+
 
 <!--
 **moonbagel35/moonbagel35** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
